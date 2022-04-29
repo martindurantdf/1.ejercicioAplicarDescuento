@@ -1,2 +1,2 @@
-# ejercicioAplicarDescuento
+# EjercicioDescuento
 Created with CodeSandbox
